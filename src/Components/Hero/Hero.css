@@ -289,8 +289,8 @@
   }
 
   .profile-img {
-    width: 380px;
-    height: 380px;
+    width: 200px;
+    height: 280px;
   }
 
   .image-backdrop {
@@ -323,8 +323,8 @@
   }
 
   .profile-img {
-    width: 200px;
-    height: 300px;
+    width: 140px;
+    height: 200px;
     border-radius: 16px;
   }
 
